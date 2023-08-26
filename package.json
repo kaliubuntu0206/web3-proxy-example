@@ -1,0 +1,17 @@
+{
+  "name": "web3-proxy-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^4.0.0",
+    "https-proxy-agent": "^7.0.1",
+    "proxy": "^2.1.1",
+    "web3.js": "github:kaliubuntu0206/web3.js#fix-double-callback-build"
+  }
+}
